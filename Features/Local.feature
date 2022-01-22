@@ -14,4 +14,4 @@ Feature: Local path
 
     Examples: 
       | City                    | pickupdate  |monthyear      | time      |
-      | "Bangalore, Karnataka"  |  "22"       | "January2022" | "3:00 PM" |
+      | "Bangalore, Karnataka"  |  "22"       | "January2022" | "7:00 PM" |

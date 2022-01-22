@@ -16,7 +16,7 @@ Feature: Outsation path
 
     Examples: 
       | FromCity               | ToCity                  | pickupdate  |monthyear     | time     |
-      | "Bangalore, Karnataka" |  "Chennai, Tamil Nadu"  |"22"         |"January2022" |"3:00 PM" |
+      | "Bangalore, Karnataka" |  "Chennai, Tamil Nadu"  |"25"         |"January2022" |"7:00 PM" |
       
      
       
@@ -36,7 +36,7 @@ Feature: Outsation path
 
     Examples: 
       | FromCity               | ToCity                 | pickupdate  | monthyear      | return date| time     |
-      | "Bangalore, Karnataka" | "Chennai, Tamil Nadu"  |"22"         | "January2022"  |"24"        | "3:00 PM"|
+      | "Bangalore, Karnataka" | "Chennai, Tamil Nadu"  |"25"         | "January2022"  |"28"        | "7:00 PM"|
       
      
       

@@ -17,5 +17,5 @@ Feature: Airport
 
     Examples: 
       | City                           |  Trip                    | Address                  | pickupdate |monthyear     | time      |
-      | "Bangalore Airport, Bangalore" |  "Cab from the Airport"  |   "Rajajinagar,Bangalore"| "22"       | "January2022"|"3:00 PM"  |
-      | "Bangalore Airport, Bangalore" |  "Cab to the Airport"    |   "Rajajinagar,Bangalore"| "22"       | "January2022"|"3:00 PM"  |
+      | "Bangalore Airport, Bangalore" |  "Cab from the Airport"  |   "Rajajinagar,Bangalore"| "24"       | "January2022"|"7:00 PM"  |
+      | "Bangalore Airport, Bangalore" |  "Cab to the Airport"    |   "Rajajinagar,Bangalore"| "24"       | "January2022"|"7:00 PM"  |
